@@ -1,0 +1,3 @@
+# Bibliotecas utilizadas
+ - pandas
+ - openpyxl
